@@ -1,0 +1,12 @@
+﻿  ProjectForWindows.cpp
+D:\VS Projects\ProjectForWindows\VectorLib\Vector.h(13,9): warning C4251: "Vector::x_": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "ProjectForWindows.cpp")
+      D:\VS Projects\ProjectForWindows\NumberLib\Number.h(3,7):
+       см. объявление "Number"
+  
+D:\VS Projects\ProjectForWindows\VectorLib\Vector.h(14,9): warning C4251: "Vector::y_": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "ProjectForWindows.cpp")
+      D:\VS Projects\ProjectForWindows\NumberLib\Number.h(3,7):
+       см. объявление "Number"
+  
+  ProjectForWindows.vcxproj -> D:\VS Projects\ProjectForWindows\x64\Debug\ProjectForWindows.exe

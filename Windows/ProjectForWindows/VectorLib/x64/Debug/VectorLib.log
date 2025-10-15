@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Vector.cpp
+D:\VS Projects\ProjectForWindows\VectorLib\Vector.cpp(1,9): warning C4005: VECTORLIB_EXPORTS: изменение макроопределения
+      D:\VS Projects\ProjectForWindows\VectorLib\Vector.cpp(1,9):
+      "VECTORLIB_EXPORTS" ранее объявлен в командной строке
+  
+D:\VS Projects\ProjectForWindows\VectorLib\Vector.cpp(1,9): warning C4603: VECTORLIB_EXPORTS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  (компиляция исходного файла "/Vector.cpp")
+      D:\VS Projects\ProjectForWindows\VectorLib\Vector.cpp(1,9):
+      Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+      D:\VS Projects\ProjectForWindows\VectorLib\Vector.cpp(3,1):
+      использование предварительно скомпилированного заголовка
+  
+D:\VS Projects\ProjectForWindows\VectorLib\Vector.h(13,9): warning C4251: "Vector::x_": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "/Vector.cpp")
+      D:\VS Projects\ProjectForWindows\NumberLib\Number.h(3,7):
+       см. объявление "Number"
+  
+D:\VS Projects\ProjectForWindows\VectorLib\Vector.h(14,9): warning C4251: "Vector::y_": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "/Vector.cpp")
+      D:\VS Projects\ProjectForWindows\NumberLib\Number.h(3,7):
+       см. объявление "Number"
+  
+  Создание кода...
+     Создается библиотека D:\VS Projects\ProjectForWindows\x64\Debug\VectorLib.lib и объект D:\VS Projects\ProjectForWindows\x64\Debug\VectorLib.exp
+  VectorLib.vcxproj -> D:\VS Projects\ProjectForWindows\x64\Debug\VectorLib.dll

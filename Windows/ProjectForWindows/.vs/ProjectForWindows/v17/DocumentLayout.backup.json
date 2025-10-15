@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS Projects\\ProjectForWindows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{070671A7-5613-4DAC-8272-5E8C0D1D8CE4}|ProjectForWindows\\ProjectForWindows.vcxproj|D:\\VS Projects\\ProjectForWindows\\ProjectForWindows\\ProjectForWindows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{070671A7-5613-4DAC-8272-5E8C0D1D8CE4}|ProjectForWindows\\ProjectForWindows.vcxproj|solutionrelative:ProjectForWindows\\ProjectForWindows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D843C646-581B-4EA6-A226-FA4240E3C626}|VectorLib\\VectorLib.vcxproj|D:\\VS Projects\\ProjectForWindows\\VectorLib\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D843C646-581B-4EA6-A226-FA4240E3C626}|VectorLib\\VectorLib.vcxproj|solutionrelative:VectorLib\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D843C646-581B-4EA6-A226-FA4240E3C626}|VectorLib\\VectorLib.vcxproj|D:\\VS Projects\\ProjectForWindows\\VectorLib\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D843C646-581B-4EA6-A226-FA4240E3C626}|VectorLib\\VectorLib.vcxproj|solutionrelative:VectorLib\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D843C646-581B-4EA6-A226-FA4240E3C626}|VectorLib\\VectorLib.vcxproj|D:\\VS Projects\\ProjectForWindows\\VectorLib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D843C646-581B-4EA6-A226-FA4240E3C626}|VectorLib\\VectorLib.vcxproj|solutionrelative:VectorLib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0EEC7E-A83E-47CD-96FA-CEEAD43B313D}|NumberLib\\NumberLib.vcxproj|D:\\VS Projects\\ProjectForWindows\\NumberLib\\Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD0EEC7E-A83E-47CD-96FA-CEEAD43B313D}|NumberLib\\NumberLib.vcxproj|solutionrelative:NumberLib\\Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0EEC7E-A83E-47CD-96FA-CEEAD43B313D}|NumberLib\\NumberLib.vcxproj|D:\\VS Projects\\ProjectForWindows\\NumberLib\\Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD0EEC7E-A83E-47CD-96FA-CEEAD43B313D}|NumberLib\\NumberLib.vcxproj|solutionrelative:NumberLib\\Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0EEC7E-A83E-47CD-96FA-CEEAD43B313D}|NumberLib\\NumberLib.vcxproj|D:\\VS Projects\\ProjectForWindows\\NumberLib\\NumberLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD0EEC7E-A83E-47CD-96FA-CEEAD43B313D}|NumberLib\\NumberLib.vcxproj|solutionrelative:NumberLib\\NumberLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "D:\\VS Projects\\ProjectForWindows\\VectorLib\\Vector.cpp",
+              "RelativeDocumentMoniker": "VectorLib\\Vector.cpp",
+              "ToolTip": "D:\\VS Projects\\ProjectForWindows\\VectorLib\\Vector.cpp",
+              "RelativeToolTip": "VectorLib\\Vector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T17:48:21.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector.h",
+              "DocumentMoniker": "D:\\VS Projects\\ProjectForWindows\\VectorLib\\Vector.h",
+              "RelativeDocumentMoniker": "VectorLib\\Vector.h",
+              "ToolTip": "D:\\VS Projects\\ProjectForWindows\\VectorLib\\Vector.h",
+              "RelativeToolTip": "VectorLib\\Vector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-15T17:47:48.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\VS Projects\\ProjectForWindows\\VectorLib\\dllmain.cpp",
+              "RelativeDocumentMoniker": "VectorLib\\dllmain.cpp",
+              "ToolTip": "D:\\VS Projects\\ProjectForWindows\\VectorLib\\dllmain.cpp",
+              "RelativeToolTip": "VectorLib\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T17:47:24.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Number.cpp",
+              "DocumentMoniker": "D:\\VS Projects\\ProjectForWindows\\NumberLib\\Number.cpp",
+              "RelativeDocumentMoniker": "NumberLib\\Number.cpp",
+              "ToolTip": "D:\\VS Projects\\ProjectForWindows\\NumberLib\\Number.cpp",
+              "RelativeToolTip": "NumberLib\\Number.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T17:44:53.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Number.h",
+              "DocumentMoniker": "D:\\VS Projects\\ProjectForWindows\\NumberLib\\Number.h",
+              "RelativeDocumentMoniker": "NumberLib\\Number.h",
+              "ToolTip": "D:\\VS Projects\\ProjectForWindows\\NumberLib\\Number.h",
+              "RelativeToolTip": "NumberLib\\Number.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-15T17:44:51.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NumberLib.cpp",
+              "DocumentMoniker": "D:\\VS Projects\\ProjectForWindows\\NumberLib\\NumberLib.cpp",
+              "RelativeDocumentMoniker": "NumberLib\\NumberLib.cpp",
+              "ToolTip": "D:\\VS Projects\\ProjectForWindows\\NumberLib\\NumberLib.cpp",
+              "RelativeToolTip": "NumberLib\\NumberLib.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T17:44:17.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectForWindows.cpp",
+              "DocumentMoniker": "D:\\VS Projects\\ProjectForWindows\\ProjectForWindows\\ProjectForWindows.cpp",
+              "RelativeDocumentMoniker": "ProjectForWindows\\ProjectForWindows.cpp",
+              "ToolTip": "D:\\VS Projects\\ProjectForWindows\\ProjectForWindows\\ProjectForWindows.cpp",
+              "RelativeToolTip": "ProjectForWindows\\ProjectForWindows.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T17:43:35.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
