@@ -1,0 +1,3 @@
+D:/LabsOS/Lab2/pthread/cmake-build-debug/CMakeFiles/pthread.dir
+D:/LabsOS/Lab2/pthread/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/LabsOS/Lab2/pthread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
